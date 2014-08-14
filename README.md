@@ -1,2 +1,1 @@
-a bug smaster
- 
+a master
