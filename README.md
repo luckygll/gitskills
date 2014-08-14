@@ -1,3 +1,3 @@
 gitskills
 =========
-creating a new branch is quick quick
+creating a new branch is quick qumasterick
